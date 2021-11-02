@@ -17,7 +17,7 @@ Provides server-side infrastructure for a web ecommerce site. Also builds a star
       
 ## Usage
   _Instructions for use:_
-  [Heroku Deployed Server]() [Github Repo]() Edit database using inquirer.
+  [Heroku Deployed Server](https://calm-ravine-02620.herokuapp.com/) [Github Repo](https://github.com/wkropat/ecommerce-backend) Edit database using inquirer.
         
 ## Screenshot
 ![Screenshot](screenshot.PNG)
