@@ -21,7 +21,7 @@ Provides server-side infrastructure for a web ecommerce site. Also builds a star
         
 ## Screenshot
 
-![Video demonstrating tests of the database.](https://watch.screencastify.com/v/Wvny31Rseccv1IEpfhbK)
+Video demonstrating tests of the database.: [here](https://watch.screencastify.com/v/Wvny31Rseccv1IEpfhbK)
       
 ## Contribution
   _Are contributions welcome?_
