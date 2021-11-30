@@ -20,7 +20,8 @@ Provides server-side infrastructure for a web ecommerce site. Also builds a star
   [Heroku Deployed Server](https://calm-ravine-02620.herokuapp.com/) [Github Repo](https://github.com/wkropat/ecommerce-backend) Edit database using inquirer.
         
 ## Screenshot
-![Screenshot](screenshot.PNG)
+
+![Video demonstrating tests of the database.](https://watch.screencastify.com/v/Wvny31Rseccv1IEpfhbK)
       
 ## Contribution
   _Are contributions welcome?_
@@ -29,6 +30,7 @@ Provides server-side infrastructure for a web ecommerce site. Also builds a star
 ## Testing
   _Instructions for testing application:_
   Clog middleware.
+  Use insomnia to test creation of tags, products, and categories.
       
 ## Questions
       
